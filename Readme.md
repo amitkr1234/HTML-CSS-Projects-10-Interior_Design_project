@@ -1,4 +1,4 @@
-# Industrial-Design-Landing Page 
+# Interior-Design-Landing Page 
 [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/a ) 
 
 
